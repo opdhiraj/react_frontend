@@ -64,6 +64,11 @@
 
 .register {
   margin-left: 30%;
+  margin-top: 100px;
+}
+
+.login {
+  margin-left: 30%;
 }
 .appButton {
   margin: 25px;
